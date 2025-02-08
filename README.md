@@ -1,15 +1,10 @@
-Intranet AMVALI
-Descrição
-A intranet da AMVALI foi desenvolvida para ser o hub central de comunicação, ferramentas e informações para os colaboradores. Criada no SharePoint e integrada a várias plataformas, ela facilita o acesso a informações relevantes, a gestão de tarefas e a automação de processos internos, como a gestão de chamados e projetos.
-
-![Imagem do Projeto](https://github.com/Jeaneoliveira/intranet-amvali/blob/main/Home-intranet.png?raw=true)
-
 # **Intranet AMVALI**
 
 ### **Descrição**
 A Intranet AMVALI foi desenvolvida para ser o hub central de comunicação, ferramentas e informações para os colaboradores da associação. Utilizando tecnologias modernas como SharePoint, Power Automate, Forms e Asana, a plataforma promove automação, eficiência e integração entre as equipes.
 
----
+
+![Imagem do Projeto](https://github.com/Jeaneoliveira/intranet-amvali/blob/main/Home-intranet.png?raw=true)
 
 ## **Funcionalidades Principais**
 
