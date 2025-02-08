@@ -9,7 +9,8 @@ A Intranet AMVALI foi desenvolvida para ser o hub central de comunicação, ferr
 ## **Funcionalidades Principais**
 
 ### **. Informações Governamentais**
-- Acesso direto a dados e links relacionados à governança.
+- Acesso direto a dados e links relacionados à governança e bibliotecas de documentos com permissões para cada setor
+  específico.
 
 ### **. Chamados de TI**
 - **Formulário no Microsoft Forms** para abertura de chamados técnicos.
@@ -22,16 +23,15 @@ A Intranet AMVALI foi desenvolvida para ser o hub central de comunicação, ferr
   - 
 
 ### **. Planner**
-- Organização de tarefas e projetos através da integração com o Microsoft Planner.
+- Organização de tarefas através da integração com o Microsoft Planner.
 
-### **7. Treinamentos e Processos**
+### **. Treinamentos e Processos**
 - Central de aprendizado com materiais de capacitação e manuais internos.
 
-### **8. Gestão de Projetos com Asana**
+### **. Gestão de Projetos com Asana**
 - Organização, acompanhamento e delegação de tarefas e projetos.
 - Dashboard visual para monitoramento do progresso das atividades.
 - Integração entre equipes para otimizar fluxos de trabalho.
-
 
 ## **Automação com Forms, Power Automate e Asana**
 
@@ -52,17 +52,14 @@ A Intranet AMVALI foi desenvolvida para ser o hub central de comunicação, ferr
 
 
 ## **Tecnologias Utilizadas**
-- **SharePoint Online**: Base da intranet, com páginas personalizadas e acesso a recursos internos.
-- **Microsoft Teams**: Integração para acesso rápido às funcionalidades.
-- **Microsoft Forms**: Ferramenta de coleta de dados e solicitações.
-- **Power Automate**: Automação de processos e notificações.
-- **Excel**: Geração de relatórios detalhados e organizados.
-- **Asana**: Gestão de tarefas e projetos.
+- **SharePoint Online**
+- **Microsoft Teams**
+- **Microsoft Forms**
+- **Power Automate**
+- **Excel**
+- **Asana**
 
 
 ## **Objetivo**
 Promover a eficiência na comunicação interna, melhorar a gestão de projetos e chamados, automatizar processos operacionais e oferecer uma experiência integrada para os colaboradores.
 
-
-### **Como Acessar**
-- A intranet pode ser acessada diretamente pelo Microsoft Teams ou pelo navegador através do SharePoint.
